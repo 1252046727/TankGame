@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Game\Game.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Game\script\net\NetManager.cs">
+    <Files>
+      <File FileName="..\..\..\..\Unity3D网络游戏实战（b5书稿资源）\资源\Chapter2\Chapter2\Tank\Assets\Tank.cs" Line="190" Column="64" />
+      <File FileName="Game\script\net\NetManager.cs" Line="170" Column="1" />
+      <File FileName="Game\script\net\ByteArray.cs" Line="70" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
