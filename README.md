@@ -10,6 +10,6 @@
 
 3.药瓶:在接下来30秒的时间里，移动速度翻倍，攻击间隔变为1s
 
-![Uploading QQ_1732024791847.png…]()
+![image](battleground.png)
 
 
